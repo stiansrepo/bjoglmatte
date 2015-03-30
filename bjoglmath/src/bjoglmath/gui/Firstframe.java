@@ -1,5 +1,4 @@
 package bjoglmath.gui;
-
 /**
  * @author DesktopStian
  */
